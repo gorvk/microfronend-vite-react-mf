@@ -2,7 +2,7 @@
 
 This project uses **Vite** and **Module Federation**.
 
-<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/2503e90c-7664-4e9a-a5c2-861c3dcf85db" />
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/6cd235f4-8d9c-4f54-a7bf-046b9a874578" />
 
 ## Getting Started
 
