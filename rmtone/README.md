@@ -28,6 +28,7 @@ npm install
   ```bash
   npm run preview
   ```
+- Now it is ready and served to host
 
 ## Module Federation Vite config explaination
 
@@ -48,7 +49,7 @@ federation({
 - `exposes` includes component to be exposed to host
 - `shared` includes dependecies required to run app as remote
 
-### Run as Standalone App
+## Run as Standalone App
 
 ```bash
 npm start
