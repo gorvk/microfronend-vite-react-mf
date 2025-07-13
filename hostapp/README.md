@@ -1,6 +1,7 @@
 # Host App
 
 This project uses **Vite** and **Module Federation**.
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/0ada09e2-a336-461d-a7ae-0acb578edeab" />
 
 ## Getting Started
 
