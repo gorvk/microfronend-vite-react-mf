@@ -11,13 +11,6 @@ This project uses **Vite** and **Module Federation**.
 ```bash
 npm install
 ```
-
-### Run as Standalone App
-
-```bash
-npm start
-```
-
 ## Module Federation Details
 
 ### Serve as remote
@@ -34,6 +27,7 @@ npm start
   ```bash
   npm run preview
   ```
+- Now it is ready and served to host
 
 ## Module Federation Vite config explaination
 
@@ -53,3 +47,9 @@ federation({
 - `filename` is used to give name to file serving the bulid to host
 - `exposes` includes component to be exposed to host
 - `shared` includes dependecies required to run app as remote
+
+## Run as Standalone App
+
+```bash
+npm start
+```
