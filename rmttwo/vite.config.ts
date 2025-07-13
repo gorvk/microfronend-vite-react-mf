@@ -15,7 +15,8 @@ export default defineConfig({
     name: "remote-app-two",
     filename: 'remoteEntry.js',
     exposes: {
-      './App': './src/App'
+      './App': './src/App',
+      './useCounterStore': './src/store/counterStore'
     },
     shared: ['react', 'react-dom'],
   })
