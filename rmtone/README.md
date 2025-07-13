@@ -2,6 +2,8 @@
 
 This project uses **Vite** and **Module Federation**.
 
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/e51c7cae-1cc8-4919-8a7d-8ad14d880d48" />
+
 ## Getting Started
 
 ### Install Dependencies
